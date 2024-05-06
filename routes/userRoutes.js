@@ -5,7 +5,8 @@ const userController = require('../controllers/userController')
 router.post('/users', userController.createUser)
 
 
-// controller(Export) - Routes(import) - use - (index.js)
+// controller(Export) - Routes(import) - use - (index.js) Emil basnyat
 
 // Exporting the routes
 module.exports = router;
+
